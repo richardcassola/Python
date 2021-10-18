@@ -1,0 +1,4 @@
+#Lambda Keyword
+g = lambda x: x*x*x
+  
+print(g(9))

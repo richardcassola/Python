@@ -1,4 +1,4 @@
 #Iteration (LOOPING)
 
-for step in range(5):
+for step in range(5, 15):
     print(step)
